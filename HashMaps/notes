@@ -1,0 +1,3 @@
+java contains two types of maps:::
+    1)Tree maps --> using BST --> O(log n) --> used when we require data in sorted manner
+    2)Hash maps --> using Hashtable --> O(1) 

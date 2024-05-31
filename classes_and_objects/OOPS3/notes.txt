@@ -1,0 +1,17 @@
+                    FINAL KEYWORD:::
+        1) Function                 2) Class
+
+1) Function ---> NO sub-class can overwrite the final function 
+2) Class ---> No inheritance from the final class
+
+::: Abstract classes & functions :::
+Abstract classes and abstract functions are not allowed to be instantiated. They must have at least one non-abstract subclass or implementation of an abstract method in order
+Abstract keyword is used to create abstract methods and properties.
+It cannot be instantiated but it can have subclasses that implement its functionality.
+
+::: Interfaces :::
+They are the extension of abstract class ---> all the functions are already abstract
+    
+::: Generics :::
+Generics allow you to write code once, then use it with any type.
+This allows for more flexible designs than if we had to specify a specific data type each time.

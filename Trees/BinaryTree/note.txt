@@ -1,0 +1,8 @@
+* Binary tree :::
+tree having 0 or 1 or max 2 nodes
+
+
+generic trees VS Binary trees :::
+
+taking input --> generic trees m hum phle se puchte h kitne child h aur tb input lete h 
+             --> binary trees m hum bss recursion lgate h jb tak -1 nhi milega... -1 milte hi null ho jaaayega 
